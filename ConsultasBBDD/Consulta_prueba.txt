@@ -1,0 +1,25 @@
+################################
+
+Nombre del fichero: 'Consulta_prueba.txt'
+
+################################
+
+Consulta en SQL: 'SELECT * FROM USUARIOS'
+
+################################
+
+Parametros que se muestran en orden de salida:
+
+COLUMNA NUM 1 - id_user
+COLUMNA NUM 2 - nombre
+COLUMNA NUM 3 - apellido1
+COLUMNA NUM 4 - apellido2
+COLUMNA NUM 5 - ultimo_acceso
+
+################################
+
+El resultado de su consulta es:
+
+FILA NUM 1: (1, 'Hodei', 'Zia', 'Lopez', '2021-01-17 20:39:00')
+FILA NUM 2:  (2, 'Prueba', 'Prueba', 'Prueba', '2022-10-16 19:33:00')
+FILA NUM 3:  (3, 'Paco', 'Fernandez', 'Loquesea', '2022-10-16 19:43:01')

@@ -1,0 +1,14 @@
+############################
+
+Image Size: 615x461
+
+############################
+
+Layers: CONV2D -> RELU -> MAXPOOL -> CONV2D -> RELU -> MAXPOOL -> FLATTER -> FULLYCONECTED
+
+############################
+
+Train Accuracy: 100.00%
+Test Accuracy: 96.96%
+
+############################
